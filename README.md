@@ -14,7 +14,7 @@ click on the live demo to have a look
 
 ## Live Demo
 
-[Live Demo Link](https://DENNIS-CODES.github.io/Scientific-calculator/)
+[Live Demo Link](https://dennis-codes.github.io/scientific-calculator/)
 
 ## Author
 
