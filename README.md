@@ -1,7 +1,8 @@
 # scientific-calculator
-/** Playing Around with Javascript **/
-this is a scientific calculator created using HTML form method ,CSS for styling and javascript for functionality
-run the code to have a look
+- /** Playing Around with Javascript **/
+
+- this is a scientific calculator created using HTML form method ,CSS for styling and javascript for functionality
+click on the live demo to have a look
 
 ![calculator](https://user-images.githubusercontent.com/65861136/98393005-c2fdcd00-2069-11eb-83d4-f17bdc3a7acd.png)
 
